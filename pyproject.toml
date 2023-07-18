@@ -1,0 +1,9 @@
+
+[project]
+name = ""
+version = ""
+description = ""
+authors = [{ name = "", email = "" }]
+dependencies = ["optimum>=1.9.1", "onnx>=1.14.0", "onnxruntime>=1.15.1"]
+requires-python = ">=3.9"
+license = { text = "MIT" }
